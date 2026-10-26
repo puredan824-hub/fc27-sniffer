@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+# 运行时数据（不入库）
+prices.db
+r2_snaps/
+r2_cards.json
+r2_movers.json
+state/

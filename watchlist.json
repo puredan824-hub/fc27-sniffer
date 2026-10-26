@@ -1,0 +1,122 @@
+[
+ {
+  "futbin_id": 23437,
+  "name": "Kanjinga",
+  "rating": 85,
+  "slug": "merveille-kanjinga"
+ },
+ {
+  "futbin_id": 23621,
+  "name": "Alonso (Scream)",
+  "rating": 85,
+  "slug": "junior-alonso"
+ },
+ {
+  "futbin_id": 23622,
+  "name": "Chong (Scream)",
+  "rating": 85,
+  "slug": "tahith-chong"
+ },
+ {
+  "futbin_id": 23614,
+  "name": "Vobian (Scream)",
+  "rating": 86,
+  "slug": "selina-vobian"
+ },
+ {
+  "futbin_id": 23612,
+  "name": "Kondogbia (Scream)",
+  "rating": 86,
+  "slug": "geoffrey-kondogbia"
+ },
+ {
+  "futbin_id": 23606,
+  "name": "Fabinho (Scream Holo)",
+  "rating": 87,
+  "slug": "fabio-henrique-tavares"
+ },
+ {
+  "futbin_id": 21725,
+  "name": "Howard (Hero Holo)",
+  "rating": 85,
+  "slug": "tim-howard"
+ },
+ {
+  "futbin_id": 21731,
+  "name": "Scott (Hero Holo)",
+  "rating": 85,
+  "slug": "scott"
+ },
+ {
+  "futbin_id": 21727,
+  "name": "Crouch (Hero Holo)",
+  "rating": 85,
+  "slug": "crouch"
+ },
+ {
+  "futbin_id": 23688,
+  "name": "Seys (SP Holo)",
+  "rating": 85,
+  "slug": "joaquin-seys"
+ },
+ {
+  "futbin_id": 23401,
+  "name": "Acheampong (TOTW Holo)",
+  "rating": 80,
+  "slug": "frank-acheampong"
+ },
+ {
+  "futbin_id": 475,
+  "name": "Pulisic",
+  "rating": 83,
+  "slug": "christian-pulisic"
+ },
+ {
+  "futbin_id": 683,
+  "name": "Rüdiger",
+  "rating": 83,
+  "slug": "antonio-rudiger"
+ },
+ {
+  "futbin_id": 630,
+  "name": "Engen",
+  "rating": 84,
+  "slug": "ingrid-syrstad-engen"
+ },
+ {
+  "futbin_id": 566,
+  "name": "Rúben Neves",
+  "rating": 85,
+  "slug": "ruben-diogo-da-silva-neves"
+ },
+ {
+  "futbin_id": 116,
+  "name": "McCabe",
+  "rating": 86,
+  "slug": "katie-mccabe"
+ },
+ {
+  "futbin_id": 632,
+  "name": "Egurrola",
+  "rating": 84,
+  "slug": "damaris-berta-egurrola-wienke"
+ },
+ {
+  "futbin_id": 559,
+  "name": "Rodrygo",
+  "rating": 84,
+  "slug": "rodrygo-silva-de-goes"
+ },
+ {
+  "futbin_id": 156,
+  "name": "Bronze",
+  "rating": 85,
+  "slug": "lucy-bronze"
+ },
+ {
+  "futbin_id": 456,
+  "name": "Barella",
+  "rating": 87,
+  "slug": "nicolo-barella"
+ }
+]

@@ -1,0 +1,10 @@
+# 探嗅引擎参考调度（按需增减）
+# 每 5 分钟：探嗅轮询（R2 全量源 + 状态机判定 + 信号）
+*/5 * * * * /path/to/fc27-sniffer/examples/poll.sh >> /var/log/fc27-sniffer.log 2>&1
+# 每小时：地板指数 + 全市场异动扫描 + 两条雷达（需求/事件面）
+7 * * * * cd /path/to/fc27-sniffer && .venv/bin/python floor_index.py >> /var/log/fc27-sniffer.log 2>&1
+9 * * * * cd /path/to/fc27-sniffer && .venv/bin/python movers_scan.py >> /var/log/fc27-sniffer.log 2>&1
+11 * * * * cd /path/to/fc27-sniffer && .venv/bin/python sbc_radar.py >> /var/log/fc27-sniffer.log 2>&1
+13 * * * * cd /path/to/fc27-sniffer && .venv/bin/python price_ranges_radar.py >> /var/log/fc27-sniffer.log 2>&1
+# 每天：信号回测评分（自优化决策的输入；是否据此调参见 README「判定参数」）
+13 5 * * * cd /path/to/fc27-sniffer && .venv/bin/python sniffer_eval.py >> /var/log/fc27-sniffer-eval.log 2>&1

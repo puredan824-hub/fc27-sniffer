@@ -1,0 +1,4 @@
+requests>=2.31
+beautifulsoup4>=4.12
+# 仅 sbc_radar.py 需要：经 futcli 命令行拉取 fut.gg 的 SBC 数据
+futcli>=0.2.0

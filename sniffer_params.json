@@ -1,0 +1,1 @@
+{"dd_min":0.3,"falling_low_age_min":30,"falling_slope":-0.03,"history":[{"note":"初始参数（主助手按 flip 纪律人工设定）：falling=30min内创新低或1h斜率≤-3%；ready=≥45min未创新低+45min振幅≤4%+斜率≥-1%；dd门槛30%；rally=斜率≥4%且回撤≥20%","ts":"2026-10-27T03:30:00+08:00"}],"rally_dd_min":0.2,"ready_low_age_min":45,"ready_range45_max":0.04,"ready_slope_min":-0.01,"running_slope":0.04}
